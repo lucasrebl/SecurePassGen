@@ -1,7 +1,7 @@
 # SecurePassGen
 
 Ce projet est un site web qui permet de générer des mots de passes alétoires.
-Les mots de passes sont composées de :
+Les mots de passes sont composées de:
   - 12 Caratères
   - 1 Majuscule
   - 1 Minuscule
